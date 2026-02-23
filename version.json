@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "build": 100,
+  "build": 101,
   "changelog": [
     "Initial release of LeadRip",
     "Fast Mode and Deep Mode scraping",
